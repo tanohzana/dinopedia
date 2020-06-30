@@ -1,8 +1,9 @@
 ---
 title: "Episode #1 - Tricératops"
 date: 2020-06-20T18:59:53Z
+image: "images/triceratops.png"
 description: "Dans ce premier épisode, nous explorons le Crétacé à la recherche d'une créature mesurant 9 mètres de long et dont les trois cornes ont fait de lui, l'un des dinosaures les plus célèbres. En route pour le passé."
-draft: true
+draft: false
 ---
 
 ## Ecoutez le podcast
@@ -40,3 +41,5 @@ On pense que le Tricératops vivait en troupeaux, à la manière des buffles ou 
 D'un point de vue anthropocentrique, le Crétacé nous apparait comme étant une période dangereuse pour les herbivores, notamment, à cause de l'abondance de prédateurs. À cette époque, on facilement imaginer T-rex faire des carnages parmi les troupeaux d'herbivores, et on pense que les cornes du Tricératops lui servaient principalement à se défendre contre ces immenses pre2dateurs. Cet attirail de combat, lui servait aussi très certainement lors de la saison des amours, lors de combats ô combien épiques, entre mâles gonflés par la testostérones. Sans parler de sa grande colerette, dont la couleur devait changer en période de reproduction, pour impressionner les femelles.
 
 Bref, tout un assemblage travaillé par l'évolution et adapté à son époque.
+
+Source de l'image : https://jurassicworld-evolution.fandom.com/wiki/Triceratops
