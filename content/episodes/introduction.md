@@ -1,8 +1,9 @@
 ---
 title: "Introduction"
-date: 2020-06-29T16:45:00Z
+date: 2020-06-18T16:45:00Z
 draft: true
-image: introduction.jpg
+image: 'images/introduction.jpg'
+description: Cet épisode est l'introduction au podcast Dinopedia. On y parle de dinosaures, de dinosaures, et encore de dinosaures.
 ---
 
 ## Ecoutez le podcast

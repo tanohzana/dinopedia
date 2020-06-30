@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "fr-fr"
+baseURL = "https://www.dinopedia-podcast.fr"
+languageCode = "fr"
 title = "Dinopedia"
-theme = "newsroom"
+theme = "massively"
+defaultContentLanguage = "fr"
