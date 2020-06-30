@@ -3,7 +3,7 @@ title: "Episode #2 - Dilophosaure"
 date: 2020-06-24T20:44:41Z
 image: "images/dilophosaure.jpeg"
 description: "Dans cet épisode, nous parlons d'un mystérieux dinosaure, qui a fait couler beaucoup d'encre parmi les scientifiques. Nommé Megalosaure, puis Dilophosaure, il foulait les plaines et forêts de l'Arizona au Jurassique."
-draft: true
+draft: false
 ---
 
 ## Ecoutez le podcast
