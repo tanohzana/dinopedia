@@ -1,5 +1,15 @@
 baseURL = "https://www.dinopedia-podcast.fr"
 languageCode = "fr"
 title = "Dinopedia"
+keywords = "dinosaures, podcast, animal, carnivore, herbivore, sciences, naturelle, apple, anchor, spotify"
 theme = "massively"
 defaultContentLanguage = "fr"
+
+[params]
+  # set below parameter to define a favicon
+  favicon = "favicon.ico"
+  description = "Amateurs de dinosaures, fin connaisseurs, ce podcast est pour vous. Nous apporterons une vision nouvelle sur les dinosaures, à travers leurs dénominations scientifiques."
+
+# Below parameters can be set to override default post settings
+[params.posts]
+  pageSize = "6"

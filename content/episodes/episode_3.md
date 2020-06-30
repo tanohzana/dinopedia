@@ -3,6 +3,7 @@ title: "Episode #3 - Compsognathus"
 date: 2020-06-27T22:04:57Z
 image: "images/compsognathus.jpeg"
 description: "Un peu moins connu que son homologue Triceratops, ce petit dinosaure était néanmoins au sommet de la chaine alimentaire de son écosystème. Encore une espèce (ou plutôt un genre), fascinant. Parlons-en."
+keywords: "dinosaures, compsognathus, animal, carnivore, sciences, naturelle, podcast, apple, anchor, spotify"
 draft: false
 ---
 

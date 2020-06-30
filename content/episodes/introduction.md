@@ -3,7 +3,8 @@ title: "Introduction"
 date: 2020-06-18T16:45:00Z
 draft: false
 image: 'images/introduction.jpg'
-description: Cet épisode est l'introduction au podcast Dinopedia. On y parle de dinosaures, de dinosaures, et encore de dinosaures.
+description: "Cet épisode est l'introduction au podcast Dinopedia. On y parle de dinosaures, de dinosaures, et encore de dinosaures."
+keywords: "dinosaures, animal, carnivore, herbivore, sciences, naturelle, podcast, apple, anchor, spotify"
 ---
 
 ## Ecoutez le podcast

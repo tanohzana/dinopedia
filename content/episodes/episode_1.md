@@ -3,6 +3,7 @@ title: "Episode #1 - Tricératops"
 date: 2020-06-20T18:59:53Z
 image: "images/triceratops.png"
 description: "Dans ce premier épisode, nous explorons le Crétacé à la recherche d'une créature mesurant 9 mètres de long et dont les trois cornes ont fait de lui, l'un des dinosaures les plus célèbres. En route pour le passé."
+keywords: "dinosaures, triceratops, animal, herbivore, sciences, naturelle, podcast, apple, anchor, spotify"
 draft: false
 ---
 
