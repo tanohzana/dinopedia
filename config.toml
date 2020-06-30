@@ -7,7 +7,7 @@ defaultContentLanguage = "fr"
 
 [params]
   # set below parameter to define a favicon
-  favicon = "favicon.ico"
+  favicon = "images/favicon.ico"
   description = "Amateurs de dinosaures, fin connaisseurs, ce podcast est pour vous. Nous apporterons une vision nouvelle sur les dinosaures, à travers leurs dénominations scientifiques."
 
 # Below parameters can be set to override default post settings
