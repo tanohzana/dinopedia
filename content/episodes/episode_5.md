@@ -15,7 +15,7 @@ Lien : https://anchor.fm/dinopedia/episodes/Episode-5---Allosaurus-egf5ts
 
 ### Apple podcasts
 
-Lien : https://podcasts.apple.com/fr/podcast/dinopedia
+Lien : https://podcasts.apple.com/fr/podcast/dinopedia/id1519454035?l=en
 
 ### Spotify
 
